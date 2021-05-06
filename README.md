@@ -1,25 +1,15 @@
-# omikuji
+omikuji
+=======
 
-`Fortune`s are so outdated. You need a new way to see your luck when logging into your shell.
+What will your luck be? 
 
+[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
+[![Version](https://img.shields.io/npm/v/omikuji.svg)](https://npmjs.org/package/omikuji)
+[![Downloads/week](https://img.shields.io/npm/dw/omikuji.svg)](https://npmjs.org/package/omikuji)
+[![License](https://img.shields.io/npm/l/omikuji.svg)](https://github.com/tristansokol/omikuji/blob/master/package.json)
 
-
-
-TODO:
-* docs driven development
-* implement basic fortune generation
-* package as binary
-* oh so much more.
-
-## Installation
-TODO
-
-## Usage
-* `omikuji` Print a fortune to stdout
-* `omikuji --good` Print a good fortune to stdout
-* `omikuji --bad` Print a good fortune to stdout
-
-
-Learn more about おみくじ on [wikipedia](https://en.wikipedia.org/wiki/O-mikuji).
-
-Parters excellently with [lolcat](https://github.com/busyloop/lolcat)
+<!-- toc -->
+# Usage
+<!-- usage -->
+# Commands
+<!-- commands -->
